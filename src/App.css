@@ -1,0 +1,236 @@
+.appTitle {
+    color: #f1f1f7;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: Verdana;
+    margin: 8px;
+}
+
+body {
+    background-color: rgb(25, 6, 77);
+    font-family: Verdana;
+}
+
+header {
+    background-color: #383870;  /*d3d3f3*/
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d3d3e3;  /*d3d3e3*/
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    color: rgb(215, 215, 226);  /*rgb(10, 10, 75);*/
+}
+
+footer {
+    background-color: #383870;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d3d3e3;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+    color: #f1f1f7;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.box-flexbox {
+    display: flex;                      /*Convertimos al menú en flexbox*/
+    justify-content: space-between;     /*Indicamos que margine todos los items que se encuentra adentro hacia la derecha e izquierda*/
+    height: 100%;
+    padding: 0px;
+    border-style: none;
+    border-width: 0px;
+    background-color: #304060;
+}
+
+.box-sidebar-menu {
+    display: inline-block;        
+    border-style: none;
+    border-width: 1px;
+    padding: 0px;
+    height: 100%;
+}
+
+.box-content {
+    display: inline-block;        
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #f0f0ff;
+    border-style: none;
+    width: 100%;
+    color: rgb(45, 34, 85);
+}
+
+
+.Table {
+    display: table;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #ffffff;
+    border-color: #000066;
+    width: auto;
+    border-width: 1px;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.Title {
+    display: table-caption;
+    border-width: 2px;
+    border-bottom: 0px;
+    border-style: solid;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    font-weight: bold;
+    background-color: #99ccff;
+    border-color: #000066;
+    margin-top: 10px;
+}
+
+.Heading {
+    display: table-row;
+    border-width: 1px;
+    border-style: solid;
+    text-align: right;
+    vertical-align: middle; 
+    padding: 5px;
+    font-weight: bold;
+    background-color: #99ccff;
+    border-color: #000066;
+}
+
+.Row {
+    display: table-row;
+}
+
+.Cell {
+    display: table-cell;
+    border-width: 1px;
+    border-style: solid;
+    text-align: right;
+    vertical-align: middle;
+    padding: 5px;
+    font-weight: bold;    
+}
+
+
+h1 {
+    background-color: rgb(161, 211, 223); /*rgb(208, 228, 233);*/
+    font-size: 16px;
+    color: #000066;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+}
+
+
+h3 {
+    color: #e62e20;
+    font-size: 26px;
+    display: inline;
+}
+
+h4 {
+    background-color: rgb(161, 211, 223); /*rgb(208, 228, 233);*/
+    font-size: 16px;
+    color: #000066;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    list-style: none;
+}
+
+ul {
+    padding: 0px;
+}
+
+.navButton {
+    display: inline-flex;        
+    border-style: solid;
+    border-width: 1px;
+    border-color: #a0c0f0;
+    background-color: #e0e0ff;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: #000088;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana;
+}
+.navButton:hover {
+    color: #0000cc;
+    box-shadow: 0 0 5px 3px rgba(0, 140, 186, 0.5);
+}
+
+.navButtonInactive {
+    display: inline-flex;        
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(218, 216, 216);
+    background-color: rgb(218, 216, 216);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: rgb(196, 195, 195);
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana;
+}
+
+.navLabel {
+    display: inline-flex; 
+    border-style: solid;
+    border-width: 1px;
+    border-color: #a0c0f0;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    color: #000033;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana;
+    width: 100px;
+}
+
+
+.questionOrdinal {
+    padding-left: 5px;
+    padding-right: 5px;
+};
+
+.questionQuestion {
+    padding-left: 5px;
+    padding-right: 5px;
+};
+
+.questionResponse {
+    padding-left: 5px;
+    padding-right: 5px;
+};
+
+.questionResult {
+    padding-left: 5px;
+    padding-right: 5px;
+};
+
+
+
