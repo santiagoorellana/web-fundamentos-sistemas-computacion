@@ -8,19 +8,19 @@
 
 <h2>Ejercicios autoevaluados</h2>
 <p>Para cada acápite, la aplicación contiene ejercicios autoevaluados que ayudan al alumno a comprobar si ha adquirido bien el conocimiento. Vease las pantallas siguientes donde se pueden ver ejercicios de cálculo, de selección de varias opciones, de verdadero o falso. Al tocar lo opció "Evaluar respuestas" la aplicación verifica las respuestas escritas o seleccionadas por el estudiante y las marca en verde si son correctas y en caso de incorrectas las marca en rojo.</p>
-<img width="400" alt="ejercicio1" src="https://github.com/user-attachments/assets/9350ecc8-8604-4b52-9e2e-131cf20fe148" /><br>
+<img width="400" alt="ejercicio1" src="https://github.com/user-attachments/assets/9350ecc8-8604-4b52-9e2e-131cf20fe148" /> 
 <img width="400" alt="ejercicio2" src="https://github.com/user-attachments/assets/8a2008d8-ea4e-4143-9918-54f28ade6d66" /><br>
-<img width="400" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" /><br>
+<img width="400" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" /> 
 <img width="400" alt="ejercicio4" src="https://github.com/user-attachments/assets/5703537d-7378-49aa-905e-c167b7e1ab3e" /><br>
 
 <h2>Herramientas</h2>
 <p>Para cada acápite, la aplicación contiene herramientas que permiten calcular operaciones booleanas y numericas o simular circuitos booleanos, para que el estudiante puede observar los procesos de una forma más dinámica y sin necesidad de acudir a un profesor que lo enseñe de forma presencial. Vease las pantallas siguientes donde se pueden ver simuladores de compuertas digitales, emulador de circuitos, visor de circuitos, convertidor de sistemas de numeración, generador de series numericas, comparador de expresiones booleanas...</p>
-<img width="400" alt="visor" src="https://github.com/user-attachments/assets/7d41d30e-f98e-43f6-910d-e8e3857638ae" /><br>
+<img width="400" alt="visor" src="https://github.com/user-attachments/assets/7d41d30e-f98e-43f6-910d-e8e3857638ae" /> 
 <img width="400" alt="emulador circuitos" src="https://github.com/user-attachments/assets/14875d2f-aaf9-405c-92a5-d53ec520268e" /><br>
-<img width="400" alt="generador" src="https://github.com/user-attachments/assets/b055ad9d-9986-4880-830e-f76431072e1e" /><br>
-<img width="400" alt="convertidor" src="https://github.com/user-attachments/assets/673e5325-db48-422a-97c0-b28bd555ca50" /><br>
-<img width="400" alt="evaluador" src="https://github.com/user-attachments/assets/692696f7-9ff5-4796-bf56-89727cb1fba6" /><br>
+<img width="400" alt="generador" src="https://github.com/user-attachments/assets/b055ad9d-9986-4880-830e-f76431072e1e" /> 
 <img width="400" alt="comparador" src="https://github.com/user-attachments/assets/ef6e209b-ffe6-4be3-8acb-235dd0300428" /><br>
+<img width="400" alt="convertidor" src="https://github.com/user-attachments/assets/673e5325-db48-422a-97c0-b28bd555ca50" /> 
+<img width="400" alt="evaluador" src="https://github.com/user-attachments/assets/692696f7-9ff5-4796-bf56-89727cb1fba6" /><br>
 
 
 <p>Aunque inicialmente, el contenido de la presente aplicación fue orientado a un tema específico de una asignatura específica en Cuba, los conocimientos y herramientas presentes en la aplicación pueden ser útiles para todo aquel que le interese estudiar los fundamentos del funcionamiento de las computadoras y circuitos digitales modernos.</p>
