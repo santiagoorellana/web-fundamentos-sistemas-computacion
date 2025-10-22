@@ -8,10 +8,10 @@
 
 <h2>Ejercicios autoevaluados</h2>
 <p>Para cada acápite, la aplicación contiene ejercicios autoevaluados que ayudan al alumno a comprobar si ha adquirido bien el conocimiento. Vease las pantallas siguientes donde se pueden ver ejercicios de cálculo, de selección de varias opciones, de verdadero o falso. Al tocar lo opció "Evaluar respuestas" la aplicación verifica las respuestas escritas o seleccionadas por el estudiante y las marca en verde si son correctas y en caso de incorrectas las marca en rojo.</p>
-<img width="484" alt="ejercicio1" src="https://github.com/user-attachments/assets/9350ecc8-8604-4b52-9e2e-131cf20fe148" /><br>
-<img width="525" alt="ejercicio2" src="https://github.com/user-attachments/assets/8a2008d8-ea4e-4143-9918-54f28ade6d66" /><br>
-<img width="439" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" /><br>
-<img width="577" alt="ejercicio4" src="https://github.com/user-attachments/assets/5703537d-7378-49aa-905e-c167b7e1ab3e" /><br>
+<img width="400" alt="ejercicio1" src="https://github.com/user-attachments/assets/9350ecc8-8604-4b52-9e2e-131cf20fe148" /><br>
+<img width="400" alt="ejercicio2" src="https://github.com/user-attachments/assets/8a2008d8-ea4e-4143-9918-54f28ade6d66" /><br>
+<img width="400" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" /><br>
+<img width="400" alt="ejercicio4" src="https://github.com/user-attachments/assets/5703537d-7378-49aa-905e-c167b7e1ab3e" /><br>
 
 <h2>Herramientas</h2>
 <p>Para cada acápite, la aplicación contiene herramientas que permiten calcular operaciones booleanas y numericas o simular circuitos booleanos, para que el estudiante puede observar los procesos de una forma más dinámica y sin necesidad de acudir a un profesor que lo enseñe de forma presencial. Vease las pantallas siguientes donde se pueden ver simuladores de compuertas digitales, emulador de circuitos, visor de circuitos, convertidor de sistemas de numeración, generador de series numericas, comparador de expresiones booleanas...</p>
