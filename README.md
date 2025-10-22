@@ -13,8 +13,14 @@
 <img width="439" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" /><br>
 <img width="577" alt="ejercicio4" src="https://github.com/user-attachments/assets/5703537d-7378-49aa-905e-c167b7e1ab3e" /><br>
 
-Herramientas
-
+<h2>Herramientas</h2>
+<p>Para cada acápite, la aplicación contiene herramientas que permiten calcular operaciones booleanas y numericas o simular circuitos booleanos, para que el estudiante puede observar los procesos de una forma más dinámica y sin necesidad de acudir a un profesor que lo enseñe de forma presencial. Vease las pantallas siguientes donde se pueden ver simuladores de compuertas digitales, emulador de circuitos, visor de circuitos, convertidor de sistemas de numeración, generador de series numericas, comparador de expresiones booleanas...</p>
+<img width="650" alt="visor" src="https://github.com/user-attachments/assets/2fa69f5f-b72e-4338-9afd-95d0ccee4739" />
+<img width="649" alt="emulador circuitos" src="https://github.com/user-attachments/assets/9e736f7a-4ece-4546-b0d2-e416fb16ee16" />
+<img width="642" alt="evaluador" src="https://github.com/user-attachments/assets/fbaa2890-0df6-4fa3-9403-fab3bd2b31c8" />
+<img width="660" alt="generador" src="https://github.com/user-attachments/assets/3f07f121-87f8-4671-8b1e-10e9787eaee8" />
+<img width="608" alt="convertidor" src="https://github.com/user-attachments/assets/f1aba54a-2ef1-4b20-b775-97ad00f9ba5f" />
+<img width="601" alt="comparador" src="https://github.com/user-attachments/assets/373cfa6e-72d3-458e-871e-a7b58e4fe9b8" />
 
 
 
