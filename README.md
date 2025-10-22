@@ -34,10 +34,10 @@ Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20tr
 
 Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
 La Habana, Cuba, 2009-2025
+<br>
 
 
-
-<h1>PREPARACION</h1>
+<h1>Preparacion para instalar</h1>
 
 Debe ejecutar estos comandos para que se descarguen y se instalen las librerias necesarias para que funcione el proyecto.
 
@@ -66,7 +66,7 @@ npm start
 
 
 
-<h1>INFORMACION ADICIONAL</h1>
+<h1>Información adicional para instalar y ejecutar</h1>
 
 # Getting Started with Create React App
 
