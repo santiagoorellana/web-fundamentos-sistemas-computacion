@@ -41,22 +41,22 @@ La Habana, Cuba, 2009-2025
 
 Debe ejecutar estos comandos para que se descarguen y se instalen las librerias necesarias para que funcione el proyecto.
 
-# Crear proyecto:
+Crear proyecto:
 ### npx create-react-app fundamentos-sistemas-computacion
 
-# Instalar UI:
+Instalar UI:
 ### npm install react-bootstrap bootstrap
 https://react-bootstrap.github.io/
 
-# Instalar el Sidebar:
+Instalar el Sidebar:
 ### npm install react-pro-sidebar
 https://www.npmjs.com/package/react-pro-sidebar
 
-# Instalar React Icons
+Instalar React Icons
 ### npm install react-icons
 https://react-icons.github.io/react-icons/
 
-# Instalar React Route Dom v6
+Instalar React Route Dom v6
 ### npm i -D react-route-dom
 https://reactrouter.com/en/main
 
