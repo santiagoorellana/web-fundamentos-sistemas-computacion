@@ -41,28 +41,28 @@ La Habana, Cuba, 2009-2025
 
 Debe ejecutar estos comandos para que se descarguen y se instalen las librerias necesarias para que funcione el proyecto.
 
-Crear proyecto:
-npx create-react-app fundamentos-sistemas-computacion
+# Crear proyecto:
+## npx create-react-app fundamentos-sistemas-computacion
 
-Instalar UI:
-npm install react-bootstrap bootstrap
+# Instalar UI:
+## npm install react-bootstrap bootstrap
 https://react-bootstrap.github.io/
 
-Instalar el Sidebar:
-npm install react-pro-sidebar
+# Instalar el Sidebar:
+## npm install react-pro-sidebar
 https://www.npmjs.com/package/react-pro-sidebar
 
-Instalar React Icons
-npm install react-icons
+# Instalar React Icons
+## npm install react-icons
 https://react-icons.github.io/react-icons/
 
-Instalar React Route Dom v6
-npm i -D react-route-dom
+# Instalar React Route Dom v6
+## npm i -D react-route-dom
 https://reactrouter.com/en/main
 
 Luego abra una ventana de lineas de comando en el mismo directorio del proyecto y ejecute el comando:
 
-npm start
+## npm start
 
 
 
