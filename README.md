@@ -18,9 +18,9 @@
 <img width="400" alt="visor" src="https://github.com/user-attachments/assets/7d41d30e-f98e-43f6-910d-e8e3857638ae" /> 
 <img width="400" alt="emulador circuitos" src="https://github.com/user-attachments/assets/14875d2f-aaf9-405c-92a5-d53ec520268e" /><br>
 <img width="400" alt="generador" src="https://github.com/user-attachments/assets/b055ad9d-9986-4880-830e-f76431072e1e" /> 
+<img width="400" alt="evaluador" src="https://github.com/user-attachments/assets/692696f7-9ff5-4796-bf56-89727cb1fba6" /><br>
 <img width="400" alt="comparador" src="https://github.com/user-attachments/assets/ef6e209b-ffe6-4be3-8acb-235dd0300428" /><br>
 <img width="400" alt="convertidor" src="https://github.com/user-attachments/assets/673e5325-db48-422a-97c0-b28bd555ca50" /> 
-<img width="400" alt="evaluador" src="https://github.com/user-attachments/assets/692696f7-9ff5-4796-bf56-89727cb1fba6" /><br>
 
 
 <p>Aunque inicialmente, el contenido de la presente aplicación fue orientado a un tema específico de una asignatura específica en Cuba, los conocimientos y herramientas presentes en la aplicación pueden ser útiles para todo aquel que le interese estudiar los fundamentos del funcionamiento de las computadoras y circuitos digitales modernos.</p>
