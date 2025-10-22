@@ -8,11 +8,10 @@
 
 <h2>Ejercicios autoevaluados</h2>
 <p>Para cada acápite, la aplicación contiene ejercicios autoevaluados que ayudan al alumno a comprobar si ha adquirido bien el conocimiento. Vease las pantallas siguientes donde se pueden ver ejercicios de cálculo, de selección de varias opciones, de verdadero o falso:</p>
-<img width="901" height="637" alt="ejercicio1" src="https://github.com/user-attachments/assets/3621fc17-71e9-48b9-8960-3eae1c3de33b" /><br>
-<img width="1122" height="636" alt="ejercicio2" src="https://github.com/user-attachments/assets/59423c01-de8b-4eef-ac1e-9a52f883f222" /><br>
-<img width="713" height="634" alt="ejercicio3" src="https://github.com/user-attachments/assets/24bedeee-0cca-458c-92ad-696adb1b1353" /><br>
-<img width="960" height="641" alt="ejercicio4" src="https://github.com/user-attachments/assets/83b5e483-6a48-4191-af5c-8dc37a25f34f" /><br>
-
+<img width="484" alt="ejercicio1" src="https://github.com/user-attachments/assets/9350ecc8-8604-4b52-9e2e-131cf20fe148" />
+<img width="725" alt="ejercicio2" src="https://github.com/user-attachments/assets/8a2008d8-ea4e-4143-9918-54f28ade6d66" />
+<img width="339" alt="ejercicio3" src="https://github.com/user-attachments/assets/7254c5e3-edd2-448d-9ea1-0f94874aadf9" />
+<img width="577" alt="ejercicio4" src="https://github.com/user-attachments/assets/5703537d-7378-49aa-905e-c167b7e1ab3e" />
 
 Herramientas
 
