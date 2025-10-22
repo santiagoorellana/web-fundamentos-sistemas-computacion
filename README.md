@@ -21,21 +21,19 @@
 <img width="400" alt="evaluador" src="https://github.com/user-attachments/assets/692696f7-9ff5-4796-bf56-89727cb1fba6" /><br>
 <img width="400" alt="comparador" src="https://github.com/user-attachments/assets/ef6e209b-ffe6-4be3-8acb-235dd0300428" />
 <img width="400" alt="convertidor" src="https://github.com/user-attachments/assets/673e5325-db48-422a-97c0-b28bd555ca50" /> 
-
+<br>
 
 <p>Aunque inicialmente, el contenido de la presente aplicación fue orientado a un tema específico de una asignatura específica en Cuba, los conocimientos y herramientas presentes en la aplicación pueden ser útiles para todo aquel que le interese estudiar los fundamentos del funcionamiento de las computadoras y circuitos digitales modernos.</p>
 
 
-Esta version está completada solo al 95% y es posible que alguna herramienta no este totalmente funcional.
-Si esta interesado en utilizar completamente o de forma parcial estos codigos para algún proyecto, puede contratar mis servicios.
+<p>Esta version está completada solo al 95% y es posible que alguna herramienta no este totalmente funcional.
+Si esta interesado en utilizar completamente o de forma parcial estos codigos para algún proyecto, puede contratar mis servicios.</p>
 
-autor: Lic. Santiago A. Orellana Pérez
+Santiago Orellana <br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
 
-email: tecnohago@gmail.com
-
-movil: +5354635944
-
-La Habana, Cuba, 2009-2023
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
+La Habana, Cuba, 2009-2025
 
 
 
